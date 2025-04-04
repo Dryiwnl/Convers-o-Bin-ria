@@ -1,0 +1,22 @@
+ _____
+|Ajuda|
+ -----	
+
+Menu:
+No menu principal, o usuario escolhe qual acao o programa deve tomar. As opcoes estao representadas entre colchetes                   "[opcao a ser escolhida]".
+1 = Realiza conversao de bases de acordo com a escolha do usuario.
+2 = Realiza operacoes matematicas com numeros binarios informados pelo usuário.
+3 = Abre o manual de instrucao do programa.
+4 = Abre a documentacao do codigo com a explicacao logica e operacional do programa
+5 = Sai do programa
+
+________________________________________________________________________________________________________________________
+
+Conversao binaria:
+O usuario deve informar Qual o numero que ele escolheu para ser convertido, a base em que esse numero esta e a base em que se deseja que o numero seja convertido, respectivamente. Apos o input dos dados solicitados, o programa realiza as operacoes e retorna o resultado da conversao na notacao X bx ---> Y by onde:
+X = numero escolhido
+x = base do numero escolhido
+Y = resultado da conversao
+y = base do resultado da conversao
+
+Exemplo: 4 b10 ---> 100 b2 (quatro na base 10 e igual a 100 na base dois)
